@@ -366,4 +366,9 @@ nav{
         gap: 4rem;
     }
 }
+
+@media (width <414px){
+    .header_image{
+    }
+}
  
